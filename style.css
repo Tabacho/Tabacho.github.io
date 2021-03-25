@@ -1,0 +1,21 @@
+#wellcome{
+text-align: center;    
+}
+
+h1{
+text-align: center;
+}
+
+div{
+text-align: center;
+font-size: 15px;
+}
+
+div:hover{
+    font-size: 25px;
+}
+
+
+#bye{
+    text-align: center;
+}
